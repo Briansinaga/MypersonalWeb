@@ -63,7 +63,7 @@ const Projects = ref([
     {
         id: 1,
         category: 'web development',
-        image: 'src/assets/GoClean.png',
+        image: 'src/assets/GoClean.webp',
         title: 'GoClean',
         description: 'a website platform that provides cleaning services',
         technologies: ['vue.js ', 'PHP', 'Tailwind CSS'],
@@ -73,7 +73,7 @@ const Projects = ref([
     {
         id: 2,
         category: 'web development',
-        image: 'src/assets/personalWeb.png',
+        image: 'src/assets/personalWeb.webp',
         title: 'Personal Web',
         description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.',
         technologies: ['vue.js 3', 'vuex', 'Express'],
@@ -83,7 +83,7 @@ const Projects = ref([
     {
         id: 3,
         category: 'web development',
-        image: 'src/assets/project.jpeg',
+        image: 'src/assets/project.webp',
         title: 'project 3',
         description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.',
         technologies: ['vue.js 3', 'vuex', 'Express'],
